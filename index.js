@@ -10,9 +10,7 @@ function yourAnimal() {
   var animal = 'cat';
 console.log ('I think I\'ll put this ${animal} in the zoo');
 
-  // How can we make sure that this function
-  // and the above function both pass?
-  // P.S.: You can't just hard-code 'cat' below
+  
   return animal
   return animal;
 }
